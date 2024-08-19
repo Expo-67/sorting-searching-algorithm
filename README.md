@@ -18,4 +18,4 @@ let j = i-1;// i picks out the elements in the arr element -1
 return arr;
 };
 insertionSort(arr);
-console.log(arr); //
+console.log(arr);
